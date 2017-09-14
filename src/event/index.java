@@ -14,7 +14,7 @@ public class index {
 		System.out.println("เลขคู่");
 		else
 		System.out.println("เลชคี่");
-		}
-
 	}
+
+}
 
