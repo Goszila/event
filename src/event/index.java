@@ -7,13 +7,14 @@ public class index {
 		Scanner keyboard = new Scanner(System.in);
 		System.out.println("Input number");
 		int number,num;
-		number =keyboard.nextInt();
+		number = keyboard.nextInt();
 		num= number%2;
 
 		if (num ==0)
 		System.out.println("àÅ¢¤Ùè");
 		else
 		System.out.println("àÅª¤Õè");
+		System.out.println("Hello");
 	}
 
 }
